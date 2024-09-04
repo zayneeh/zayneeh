@@ -11,7 +11,7 @@
 - 🌱 I write technical articles on Data Science, AI, and Python
 - 💬 Ask me about AI/ML and Food
 - ⚡ Fun fact: I write about basically everything in my life
-- 🤔 I’m looking for an internship or how to grow in my career
+- 🤔 I’m looking for an internship
 
 ## Here are my top languages
 
