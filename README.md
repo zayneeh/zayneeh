@@ -7,7 +7,7 @@
 ## Hi I'm Zainab 👋, a machine learning engineer.
 
 - 🔭 I’m currently working on a research paper on NERs for Resume Parsing
-- 🌱 I’m currently learning about audio classification with healthcare
+- 🌱 I’m currently learning about audio classification in relation to  healthcare
 - 💬 Ask me about AI/ML and Food
 - ⚡ Fun fact: I write about basically everything in my life
 - 🤔 I’m looking for an internship
