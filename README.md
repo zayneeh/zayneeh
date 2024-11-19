@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning about Speech recognition and RAGs
 - 💬 Ask me about AI/ML and Food
 - ⚡ Fun fact: I write about basically everything in my life
-- 🤔 I’m looking for an internship
+- 🤔 I’m looking to collaborate on NLP projects.
   
 ## Projects I'm currently working on
 
