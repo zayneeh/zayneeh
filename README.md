@@ -1,8 +1,4 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/example-new-gif-url/giphy.gif" width="100" />
-</div>
-
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/zainab-tairu-4a4181178">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
