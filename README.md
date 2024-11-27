@@ -18,7 +18,7 @@
 </div>
  
 
-## Hi I'm Zainab 👋, a machine learning engineer.
+## Hi there👋, I'm Zainab; a machine learning engineer.
 
 - 🔭 I’m currently working on a summarization tool for chemical engineering papers 
 - 🌱 I’m currently learning about Speech recognition and RAGs
