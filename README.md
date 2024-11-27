@@ -1,8 +1,22 @@
 
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
-![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
-![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)
-![twitter](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=Twitter&logoColor=white)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  
+</div>
+
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/zainab-tairu-4a4181178">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@tairuzainab">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+   <a href="https://www.instagram.com//zee_likes_to_cook">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=blue" alt="Instagram Badge"/>
+  </a>
+
+</div>
+ 
 
 ## Hi I'm Zainab 👋, a machine learning engineer.
 
