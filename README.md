@@ -20,11 +20,11 @@
 
 ## Hi there👋, I'm Zainab; a machine learning engineer.
 
-- 🔭 I’m currently working on a summarization tool for chemical engineering papers 
+- 🔭 I’m working on a summarization tool for Nigerian chemical engineering papers 
 - 🌱 I’m currently learning about Speech recognition and RAGs
-- 💬 Ask me about AI/ML and Food
+- 💬 Ask me about AI/ML, Reserach and Food
 - ⚡ Fun fact: I write about basically everything in my life
-- 🤔 I’m looking to collaborate on NLP projects.
+
   
 ## Projects I'm currently working on
 
