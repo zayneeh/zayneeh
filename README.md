@@ -28,6 +28,6 @@
   
 ## Projects I'm currently working on
 
-- Transformer based NERs
-- Summarization tool for chemical engineering papers 
+- Nigerian Recipe Reccomender
+- Summarization tool for Nigerian chemical engineering papers 
 <!--
