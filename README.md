@@ -28,6 +28,6 @@
   
 ## Projects I'm currently working on
 
-- Nigerian Recipe Reccomender
-- Summarization tool for Nigerian chemical engineering papers 
+- Ulcermate: To help ulcer patients manage their ulcer 
+- Enzyme engineering: To simulate a thermophillic Bacillus specie  
 <!--
