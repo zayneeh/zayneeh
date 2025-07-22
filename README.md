@@ -20,8 +20,8 @@
 
 ## Hi there👋, I'm Zainab; a machine learning engineer.
 
-- 🔭 I’m working on a summarization tool for Nigerian chemical engineering papers 
-- 🌱 I’m currently learning about Speech recognition and RAGs
+- 🔭 I’m working on engineering thermophillic lipases
+- 🌱 I’m currently learning about Polymer Informatics 
 - 💬 Ask me about AI/ML, Reserach and Food
 - ⚡ Fun fact: I write about basically everything in my life
 
